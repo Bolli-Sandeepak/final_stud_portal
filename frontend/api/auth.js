@@ -1,6 +1,6 @@
 
 
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://final-stud-portal.onrender.com/api";
 
 // Auth APIs
 export async function signupUser(data) {
